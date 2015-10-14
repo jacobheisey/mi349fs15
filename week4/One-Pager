@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Fjalla+One'
+   rel='stylesheet' type='text/css'>
+   <link rel='stylesheet' href='/Users/jacobheisey/Documents/main.css'>
+</head>
+
+  <body>
+    <h1>Jacob Heisey</h1>
+    <h2>A website that acts as a portfolio reflecting the professional
+       accomplishments, both technical and personal, of Jacob Heisey.</h2>
+
+       <div class = "description">
+       <p>This will be a professionally designed digital portfolio
+         that focuses on showcasing professional and academic achievements,
+         hobbies, interests, and any other miscellaneous topics.
+         The site will also have an entrepreneurial aspect that conveys
+         business ideas, goals, and advice from personal experience. It would
+          be great to have synchronization with LinkedIn, or a custom built
+          feature that shows current employment status.</p>
+       </div>
+
+    <h3>PERSONAS</h3>
+
+      <div class = "personas">
+        <p>
+          <br />
+          <img src='Chris.png' height=50x width=50px>
+          Chris the Executive
+          <br />
+          <img src='Pam.png' height=50px width=50px>
+          Pam the Recruiter
+          <br />
+          <img src='John.png' height=50px width=50px>
+          John the Engineer
+      </p>
+      </div>
+
+    <h4>COMPS</h4>
+    <div class = "comps">
+      <p>
+        <br />
+        LinkedIn
+
+        <br />
+        Kevin's Site
+
+        <br />
+        Rich's Site
+      </p>
+    </div>
